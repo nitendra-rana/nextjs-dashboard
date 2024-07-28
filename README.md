@@ -12,5 +12,7 @@
 3. integration of Sql db (vercel/postgres) 
 4. data fetching using server components.
 5. static and dynamic rendering.
-
+6. streaming, suspense, loading skeletons, and suspense boundaries.
+7. loading.tsx file & route Groups (overview)
+8. Partial Pre-rendering (PPR) 
 
