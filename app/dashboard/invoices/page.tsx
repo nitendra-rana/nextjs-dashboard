@@ -1,5 +1,7 @@
+import { fetchRevenue } from "@/app/lib/data";
 
-const pate = () => {
+const  pate = async () => {
+  const revenue = await fetchRevenue();
   return (
     <div>
       Invoices Page
