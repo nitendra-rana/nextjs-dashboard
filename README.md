@@ -1,4 +1,4 @@
-## Basic learnings
+## level 1
 1. Folder structure 
 2. Tailwind integration (by default)
 3. TypeScript integration (by default)
@@ -6,7 +6,7 @@
 5. layout in next.js
 6. adding fonts to project
 
-## other advanced learnings
+## level 2
 1. Server components. 
 2. Database seeding
 3. integration of Sql db (vercel/postgres) 
@@ -16,3 +16,6 @@
 7. loading.tsx file & route Groups (overview)
 8. Partial Pre-rendering (PPR) 
 
+## Level 3 
+1. Search and Pagination
+2. useSearchParams, usePathname, useRouter
