@@ -17,5 +17,16 @@
 8. Partial Pre-rendering (PPR) 
 
 ## Level 3 
-1. Search and Pagination
+1. Implemented Search 
 2. useSearchParams, usePathname, useRouter
+3. Implemented Debouncing
+4. Implemented Pagination
+5. used Server Actions to mutate data
+6. revalidatePath
+7. Error Handling
+
+## Level 4
+1. Form validation
+2. Improved Accessibility
+3. Server-Side validation
+4.
